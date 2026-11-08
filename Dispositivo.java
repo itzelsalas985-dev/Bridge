@@ -1,3 +1,4 @@
+
 public interface Dispositivo {
     boolean isEnabled();
     void enable();

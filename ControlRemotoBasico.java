@@ -1,4 +1,3 @@
-package Bridge;
 
 public class ControlRemotoBasico extends ControlRemoto {
     public ControlRemotoBasico(Dispositivo dispositivo) {

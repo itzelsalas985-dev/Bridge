@@ -1,4 +1,3 @@
-package Bridge;
 
 public class TV implements Dispositivo {
     private boolean on = false;
